@@ -1,7 +1,7 @@
 import turtle
 
 turtle.color("blue")
-turtle.speed(4)
+turtle.speed(3)
 turtle.penup()
 for _ in range(10):
     turtle.dot()
